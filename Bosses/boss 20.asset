@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdd27f470df907548abe404bd6b03407, type: 3}
+  m_Name: boss 20
+  m_EditorClassIdentifier: 
+  enemyHolder: {fileID: 1647243996690641801, guid: b9aa19f1d52513c40a4b43b3c21824a8, type: 3}
+  enemyLeftHand: {fileID: 400656140266974224, guid: c8160ce9b6e36ab4e86e90a29af8b999, type: 3}
+  enemyRightHand: {fileID: 400656140266974224, guid: c8160ce9b6e36ab4e86e90a29af8b999, type: 3}
+  enemySprite: {fileID: 21300000, guid: ea0e033f2ab8d02469957b22743510e4, type: 3}
+  Health: 4500
+  bossLeftProjectiles: {fileID: 21300000, guid: 80812b349eb8baf46990c207c6837733, type: 3}
+  bossRightProjectiles: {fileID: 21300000, guid: 80812b349eb8baf46990c207c6837733, type: 3}
+  bulletSpeed: 3
+  firerate: 0.8
+  bulletsDamage: 0
+  backgroundImage: {fileID: 21300000, guid: fcf2c47ca43cf054b98ef1c051c235cf, type: 3}
